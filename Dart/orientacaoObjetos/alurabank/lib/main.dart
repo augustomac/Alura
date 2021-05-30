@@ -38,6 +38,7 @@ Class ContaCorrente1 {
 //====================AULA 02=======================
 void main() {
   //cada objeto cria um hashcode que seria praticamente um "RG" que é único para cada pessoa no dart é igual o hashcode de cada objeto é único e sempre muda em cada execução do programa.
+  //variavel conta1 do tipo ContaCorrente
   ContaCorrente conta1 = ContaCorrente();
   ContaCorrente conta2 = ContaCorrente();
 
